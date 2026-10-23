@@ -1,0 +1,10 @@
+{
+  "name": "starpicker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Advanced filters for GitHub stars",
+  "scripts": {
+    "check": "node --check starpicker.user.js",
+    "test": "node --test tests/*.test.cjs"
+  }
+}
